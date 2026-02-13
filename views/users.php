@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Villain Directory - Vector Vault</title>
+    <title>User Directory - Vector Vault</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-gray-800 via-[#0a192f] to-black min-h-screen text-white font-sans p-8">
@@ -14,7 +14,7 @@
                 <div class="h-12 w-12 rounded-full bg-orange-500 border-2 border-white flex items-center justify-center shadow-lg">
                     <span class="text-xl font-black italic text-white">V</span>
                 </div>
-                <h1 class="text-2xl font-black text-orange-500 uppercase tracking-widest">Villain Directory</h1>
+                <h1 class="text-2xl font-black text-orange-500 uppercase tracking-widest">User Directory</h1>
             </div>
             <a href="index.php?action=dashboard" class="text-orange-400 hover:text-white transition-colors text-sm uppercase font-bold tracking-widest">
                 ← Back to Vault
@@ -42,7 +42,6 @@
             </table>
         </div>
         
-        <p class="mt-6 text-center text-orange-500/30 text-xs uppercase tracking-[0.3em]">Authorized Personnel Only - Vector Industries</p>
     </div>
 
 </body>
