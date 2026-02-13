@@ -53,7 +53,7 @@
         </form>
         <div class="text-center mt-6">
             <a href="index.php?action=register" class="text-sm text-orange-400 hover:text-orange-300 transition-colors duration-200 underline-offset-4 hover:underline">
-                New villain? Create an account
+                New? Create an account
             </a>
         </div>
     </div>
