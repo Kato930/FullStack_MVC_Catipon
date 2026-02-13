@@ -21,7 +21,7 @@
             </div>
 
             <h1 class="text-4xl font-black text-orange-500 uppercase tracking-widest mb-2 drop-shadow-md">Vector Vault</h1>
-            <p class="text-orange-200/60 mb-8 uppercase text-sm tracking-tighter">Welcome back to the command center.</p>
+            <p class="text-orange-200/60 mb-8 uppercase text-sm tracking-tighter">Welcome to your personal Vault!.</p>
 
             <div class="space-y-4">
                 <a href="index.php?action=users" class="block w-full bg-gradient-to-r from-orange-500 to-red-500 text-white font-bold py-4 rounded-2xl hover:scale-[1.03] transition-all duration-300 shadow-lg uppercase tracking-widest">
